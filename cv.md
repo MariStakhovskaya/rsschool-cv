@@ -6,7 +6,7 @@
 ***
 ###Contact information:
 __Phone:__ +375293550605  
-__E-mail:__ [maria.stachovski.de@gmail.com]   
+__E-mail:__ <maria.stachovski.de@gmail.com>  
 __Github:__ MariStakhovskaya   
 __Telegram:__ @MariaStakhovskaya
 ***
@@ -30,7 +30,8 @@ Expensive master going. And I go to the job of my dream's step by step.
 
 ***
 ###Code example:
-Kata 7yu [https://www.codewars.com/kata/554b4ac871d6813a03000035/javascript]
+[Kata 7kyu](https://www.codewars.com/kata/554b4ac871d6813a03000035/javascript) 
+
 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 ```javascript
 function highAndLow(numbers){
@@ -44,7 +45,7 @@ function highAndLow(numbers){
 
 ***
 
-###languages:
+###Languages:
 * English: A2/B1 (in progress) 
 [Certificate efset.org](https://www.efset.org/cert/mv94Ay)  
 ![Сертификат](./assets/efset_cr.png)  
