@@ -7,7 +7,7 @@
 ### Contact information:  
 __Phone:__ +375293550605    
 __E-mail:__ <maria.stachovski.de@gmail.com>    
-__Github:__ MariStakhovskaya     
+__Github:__ [MariStakhovskaya](https://github.com/MariStakhovskaya)     
 __Telegram:__ @MariaStakhovskaya    
 ***
 ### About myself:  
